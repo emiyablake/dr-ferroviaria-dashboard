@@ -24,3 +24,6 @@ Thumbs.db
 
 # Data files (opcional, se você não quiser versionar dados brutos)
 rawdata/
+
+guidelines.txt
+patios_terminais_cruzados.csv

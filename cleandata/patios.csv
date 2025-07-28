@@ -1,0 +1,219 @@
+pátio,código,em_operação,auto_assistido,comprimento_útil_desvio,tempo_médio_licenc,id
+,,,,,,
+,,,,,,
+cara-cara,lcc,sim,nao,802.0,3.0,1.0
+bairro oficinas,lof,nao,nao,0.0,0.0,2.0
+curitiba,lco,sim,nao,1438.0,1.0,3.0
+cachoeira bom jesus,lch,sim,nao,338.0,1.0,4.0
+almirante tamandare,ltd,sim,nao,344.0,1.0,5.0
+tranqueira,ltr,sim,nao,442.0,1.0,6.0
+rio branco do sul,lbr,sim,nao,1654.0,1.0,7.0
+d pedro ii,ldp,sim,sim,2000.0,0.0,8.0
+km 5,lid,sim,sim,8329.0,0.0,9.0
+alexandra,lax,sim,nao,1791.0,0.0,10.0
+saquarema,lsq,sim,nao,1388.0,0.0,11.0
+morretes,lmr,sim,sim,1911.0,0.0,12.0
+eng. roberto costa,lot,sim,nao,888.0,0.0,13.0
+eng. lange,lel,sim,nao,861.0,0.0,14.0
+marumby,lmy,sim,nao,784.0,0.0,15.0
+veu de noiva,lvn,sim,nao,856.0,0.0,16.0
+est km 70,lks,sim,nao,873.0,0.0,17.0
+banhado,lbh,sim,nao,1001.0,0.0,18.0
+roca nova,lrn,sim,nao,800.0,0.0,19.0
+piraquara,lpq,sim,nao,975.0,0.0,20.0
+eng. coral,luz,sim,nao,827.0,0.0,21.0
+pinhais,lnh,sim,nao,672.0,0.0,22.0
+"posto km 103,490",lkp,sim,nao,1100.0,0.0,23.0
+km 108,lkm,sim,nao,736.0,0.0,24.0
+iguacu,lic,sim,sim,2900.0,0.0,25.0
+tatuquara,ltu,sim,nao,1607.0,1.0,26.0
+araucaria terminal,law,sim,nao,1481.0,1.0,27.0
+araucaria carga,lar,sim,nao,1983.0,1.0,28.0
+posto km 141,lab,sim,nao,1366.0,1.0,29.0
+general lucio,lgi,sim,nao,1334.0,1.0,30.0
+balsa nova,lbn,sim,nao,1423.0,1.0,31.0
+eng. bley,leb,sim,nao,786.0,1.0,32.0
+e. ozorio de almeida,loz,sim,nao,1310.0,1.0,33.0
+eng. walter s veloso,lwv,sim,nao,1434.0,1.0,34.0
+machado da costa,lmo,sim,nao,1343.0,1.0,35.0
+angelo lopes,llp,sim,nao,1436.0,1.0,36.0
+eng. lineo do amaral,lly,sim,nao,1645.0,1.0,37.0
+desvio ribas,ldv,sim,nao,2157.0,1.0,38.0
+furnas,lfu,sim,nao,1468.0,1.0,39.0
+vila velha,lvv,sim,nao,1327.0,1.0,40.0
+uvaranas,lus,sim,sim,2616.0,4.0,41.0
+entre-rios,ler,sim,nao,743.0,3.0,42.0
+guarauna,lgu,sim,nao,838.0,3.0,43.0
+eng. teixeira soares,lts,sim,nao,823.0,3.0,44.0
+fernandes pinheiro,lfp,sim,nao,750.0,3.0,45.0
+irati,lit,sim,nao,729.0,3.0,46.0
+eng. gutierrez,lgz,sim,nao,729.0,3.0,47.0
+lapa,lla,sim,nao,729.0,1.0,48.0
+rio da varzea,lvz,sim,nao,1260.0,1.0,49.0
+rio negro,lro,sim,sim,1693.0,1.0,50.0
+mafra,lri,sim,sim,733.0,3.0,51.0
+sao francisco do sul,lfc,sim,sim,643.0,3.0,52.0
+rio do morro,ldm,sim,nao,1507.0,3.0,53.0
+guaramirim,lba,sim,nao,1341.0,3.0,54.0
+corupa,lhs,sim,nao,1885.0,3.0,55.0
+rio natal,lnt,sim,nao,1546.0,3.0,56.0
+rio vermelho,lrv,sim,nao,1669.0,3.0,57.0
+rio negrinho,lno,sim,nao,528.0,3.0,58.0
+avencal,lrp,sim,nao,1261.0,3.0,59.0
+cruz lima,llm,sim,nao,1533.0,3.0,60.0
+arroio grande,lad,sim,nao,740.0,3.0,61.0
+agua clara do sul,lal,sim,nao,783.0,3.0,62.0
+inacio martins,lim,sim,nao,750.0,3.0,63.0
+gois artigas,lga,sim,nao,792.0,3.0,64.0
+afonso camargo,lao,sim,nao,785.0,3.0,65.0
+eng. joao passos,ljs,sim,nao,858.0,3.0,66.0
+guarapuava,lgp,sim,nao,885.0,0.0,67.0
+jaguariaiva,ljr,nao,nao,671.0,3.0,68.0
+marques dos reis,lmq,sim,nao,844.0,4.0,69.0
+fabrica pisa,l03,nao,nao,0.0,0.0,70.0
+maringa,lmg,sim,sim,7647.0,4.0,71.0
+posto km 543,l04,nao,nao,0.0,0.0,72.0
+antonina,lat,sim,nao,200.0,0.0,73.0
+joaquim murtinho,lmu,nao,nao,884.0,3.0,74.0
+harmonia,lha,nao,nao,477.0,3.0,75.0
+marcelino ramos,nrm,nao,nao,381.0,0.0,76.0
+itaiopolis,lis,sim,nao,1083.0,4.0,77.0
+monte castelo,lme,sim,nao,1201.0,4.0,78.0
+arigolandia,lia,sim,nao,1276.0,4.0,79.0
+ferradura,lfa,sim,nao,1250.0,4.0,80.0
+coronel buarque,llb,sim,nao,1164.0,4.0,81.0
+campo alto do sul,lam,sim,nao,1245.0,4.0,82.0
+guarnicao ubata,lub,sim,nao,1379.0,4.0,83.0
+feitor juvencio,lfj,sim,nao,1195.0,4.0,84.0
+sao felipe,lsf,sim,nao,1146.0,4.0,85.0
+lombas,lob,sim,nao,950.0,4.0,86.0
+correia pinto,lop,sim,nao,1066.0,4.0,87.0
+lages,lls,sim,nao,1727.0,4.0,88.0
+maracana,lmk,sim,nao,1144.0,4.0,89.0
+santa quiteria,lst,sim,nao,1390.0,4.0,90.0
+francisco simas,lfo,sim,nao,1402.0,4.0,91.0
+pinhalzinho,llz,sim,nao,1386.0,4.0,92.0
+piriquitos,lpj,sim,nao,1552.0,4.0,93.0
+eng. rosaldo leitao,llt,sim,nao,1465.0,4.0,94.0
+ipiranga do sul,lih,sim,nao,1390.0,4.0,95.0
+lustosas,llu,sim,nao,1445.0,4.0,96.0
+campinas belas,lbx,sim,nao,1344.0,4.0,97.0
+barreiro,lbo,sim,nao,1423.0,4.0,98.0
+reserva,lrf,sim,nao,1919.0,4.0,99.0
+faxinal,lfi,sim,nao,1386.0,4.0,100.0
+leonardos,llh,sim,nao,1335.0,4.0,101.0
+monjolinho,lmj,sim,nao,1471.0,4.0,102.0
+ortigueira,lor,sim,nao,1359.0,4.0,103.0
+bairro dos francas,lbj,sim,nao,1339.0,4.0,104.0
+eng. denisar zanello,lod,sim,nao,1356.0,4.0,105.0
+maua do sul,lmf,sim,nao,1670.0,4.0,106.0
+germina,lge,sim,nao,1509.0,4.0,107.0
+marilandia do sul,luv,sim,nao,1555.0,4.0,108.0
+california do sul,lcf,sim,nao,1340.0,4.0,109.0
+jardim america,ljm,sim,nao,1501.0,4.0,110.0
+apucarana,lap,sim,nao,2125.0,4.0,111.0
+bage,nbg,sim,nao,1473.0,4.0,112.0
+eng. guimaraes,neg,sim,nao,1100.0,4.0,113.0
+eng. afif.,nea,sim,nao,985.0,4.0,114.0
+passo dos pires,npp,sim,nao,1196.0,4.0,115.0
+c.vieweger,ncw,sim,nao,1100.0,4.0,116.0
+herval,nhe,sim,nao,1369.0,4.0,117.0
+pedro osorio,npo,sim,nao,965.0,4.0,118.0
+eng. chaves,nec,sim,nao,1112.0,4.0,119.0
+pelotas,npt,sim,nao,1102.0,4.0,120.0
+povo novo,nvn,sim,nao,1094.0,4.0,121.0
+rio grande,nrg,sim,sim,7631.0,4.0,122.0
+cachoeira do sul,nch,sim,nao,848.0,4.0,123.0
+porto de cachoeira do sul,n03,nao,nao,0.0,0.0,124.0
+cacequi,ncy,sim,sim,1101.0,4.0,125.0
+retiro,nre,sim,nao,1158.0,4.0,126.0
+tres divisas,ntd,sim,nao,1072.0,4.0,127.0
+sao gabriel,nsg,sim,nao,1492.0,4.0,128.0
+vacacai,nvi,sim,nao,1037.0,4.0,129.0
+cel.linhares,nlh,sim,nao,1114.0,4.0,130.0
+tres estradas,nte,sim,nao,1410.0,4.0,131.0
+sao sebastiao,nse,sim,nao,1393.0,4.0,132.0
+entroncamento,nen,sim,nao,221.0,4.0,133.0
+tigre,ntg,sim,nao,650.0,4.0,134.0
+uruguaiana,nug,nao,sim,2120.0,4.0,135.0
+cruz alta,ncz,sim,sim,851.0,4.0,136.0
+ijui,nij,sim,nao,345.0,4.0,137.0
+santo angelo,nsn,sim,nao,860.0,4.0,138.0
+passo fundo,npf,sim,sim,2011.0,4.0,139.0
+dilermando de aguiar,nda,sim,nao,1380.0,4.0,140.0
+santiago,nst,nao,nao,426.0,4.0,141.0
+diretor pestana,ndp,nao,nao,594.0,0.0,142.0
+triangulo industrial,nti,sim,nao,560.0,4.0,143.0
+santana livramento,nli,nao,nao,357.0,0.0,144.0
+general luz,ngl,sim,nao,455.0,4.0,145.0
+olival,nov,sim,nao,1145.0,4.0,146.0
+montenegro,nmn,sim,nao,1295.0,4.0,147.0
+bom jardim,nbj,sim,nao,1251.0,4.0,148.0
+paverama,npv,sim,nao,866.0,4.0,149.0
+corvo,nor,sim,nao,777.0,4.0,150.0
+roca sales,nro,sim,nao,1100.0,4.0,151.0
+jaboticaba,njb,nao,nao,1011.0,4.0,152.0
+bento goncalves,nbe,sim,nao,1000.0,0.0,153.0
+garibaldi,ngi,sim,nao,1000.0,0.0,154.0
+carlos barbosa,ncb,sim,nao,1000.0,0.0,155.0
+estrela,nes,nao,nao,647.0,4.0,156.0
+porto de porto alegre,npa,nao,nao,0.0,0.0,157.0
+porto de pelotas,n05,nao,nao,0.0,0.0,158.0
+patio industrial,npy,sim,sim,1410.0,4.0,159.0
+vasconcelos jardim,nvj,sim,nao,894.0,4.0,160.0
+fanfa,nfn,sim,nao,849.0,4.0,161.0
+anibal pfeifer,nap,sim,nao,1067.0,4.0,162.0
+professor parreira,npr,sim,nao,886.0,4.0,163.0
+max brunhs,nmx,sim,nao,1090.0,4.0,164.0
+ramiz galvao,nra,sim,nao,800.0,4.0,165.0
+rio pardo,nrp,sim,nao,1071.0,4.0,166.0
+mucum,nmu,sim,nao,1083.0,4.0,167.0
+guapore,ngp,sim,nao,1042.0,4.0,168.0
+casca,nkc,sim,nao,1062.0,4.0,169.0
+santa tereza,nsz,sim,nao,667.0,4.0,170.0
+coronel salgado,ncg,sim,nao,1114.0,4.0,171.0
+feitor fae,nff,sim,nao,649.0,4.0,172.0
+sao joao,njo,sim,nao,950.0,4.0,173.0
+silva vargas,nvg,sim,nao,931.0,4.0,174.0
+capitao ritter,nri,sim,nao,747.0,4.0,175.0
+sargento queiroz,nsq,sim,nao,850.0,4.0,176.0
+escurinho,neu,sim,nao,862.0,4.0,177.0
+berlande,nbr,sim,nao,1243.0,4.0,178.0
+bexiga,nbx,sim,nao,807.0,4.0,179.0
+restinga seca,nrs,sim,nao,870.0,4.0,180.0
+triangulo,ntm,nao,nao,500.0,0.0,181.0
+santa rosa,nsr,nao,nao,707.0,4.0,182.0
+sao borja,nsj,nao,nao,0.0,0.0,183.0
+ourinhos,zou,sim,sim,1250.0,0.0,184.0
+cambara,lcm,sim,nao,743.0,4.0,185.0
+bandeirantes,lbd,sim,nao,918.0,4.0,186.0
+controlador jonas,llj,sim,nao,1149.0,4.0,187.0
+cornelio procopio,lcp,sim,nao,1000.0,4.0,188.0
+urai,lur,sim,nao,885.0,4.0,189.0
+jataizinho,ljy,sim,nao,456.0,4.0,190.0
+londrina,lld,sim,sim,1350.0,4.0,191.0
+rolandia,lrl,sim,nao,1486.0,4.0,192.0
+arapongas,lag,sim,nao,1385.0,4.0,193.0
+aricanduva,lcv,sim,nao,1690.0,4.0,194.0
+mandaguari,lmi,sim,nao,1536.0,4.0,195.0
+marialva,lma,sim,nao,1514.0,4.0,196.0
+sarandi,lsd,sim,nao,2556.0,4.0,197.0
+eng. vicente montanha,lmn,sim,nao,1420.0,4.0,198.0
+cianorte,lcy,nao,nao,200.0,0.0,199.0
+itaboa,zxz,sim,nao,208.0,0.0,200.0
+apiai,zza,sim,nao,2342.0,4.0,201.0
+tatui,zty,sim,nao,740.0,3.0,202.0
+angatuba,zat,sim,nao,981.0,4.0,203.0
+buri,zbz,sim,nao,918.0,4.0,204.0
+nova itapeva,znw,sim,nao,1996.0,4.0,205.0
+canitar,zkc,sim,nao,1465.0,4.0,206.0
+presidente epitacio,zpe,nao,nao,912.0,4.0,207.0
+pinhal,npi,sim,nao,1079.0,4.0,208.0
+val de serra,nvs,sim,nao,1114.0,4.0,209.0
+guassupi,ngu,sim,nao,1092.0,4.0,210.0
+j.de castilhos,njc,sim,nao,571.0,4.0,211.0
+tupancireta,ntp,sim,nao,1279.0,4.0,212.0
+benjamin not,nbn,sim,nao,1490.0,4.0,213.0
+canabarro,ncn,sim,nao,1145.0,4.0,214.0
+sao lucas,nsl,sim,nao,1165.0,4.0,215.0
+umbu,nub,sim,nao,1205.0,4.0,216.0
