@@ -8,8 +8,6 @@ __pycache__/
 env/
 venv/
 
-# SQLite database files
-*db
 
 # VS Code settings
 .vscode/
@@ -24,3 +22,6 @@ Thumbs.db
 
 # Data files (opcional, se você não quiser versionar dados brutos)
 rawdata/
+
+guidelines.txt
+
