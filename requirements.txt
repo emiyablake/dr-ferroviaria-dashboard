@@ -3,4 +3,5 @@ streamlit
 sqlalchemy
 openpyxl
 plotly
+matplotlib
 geopandas

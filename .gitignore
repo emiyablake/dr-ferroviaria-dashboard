@@ -8,8 +8,6 @@ __pycache__/
 env/
 venv/
 
-# SQLite database files
-*db
 
 # VS Code settings
 .vscode/
@@ -26,4 +24,4 @@ Thumbs.db
 rawdata/
 
 guidelines.txt
-patios_terminais_cruzados.csv
+
